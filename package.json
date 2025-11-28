@@ -1,0 +1,30 @@
+{
+  "name": "microservoce-uber",
+  "version": "1.0.0",
+  "description": "microservices pattern based backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh3562/microservice-uber-js.git"
+  },
+  "keywords": [
+    "microservice"
+  ],
+  "author": "Rishabh Dubey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishabh3562/microservice-uber-js/issues"
+  },
+  "homepage": "https://github.com/rishabh3562/microservice-uber-js#readme",
+  "dependencies": {
+    "autocannon": "^8.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^9.0.0",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.11"
+  }
+}
